@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Reports
+reports/
+*.pdf
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
