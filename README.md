@@ -3,7 +3,7 @@
 This project explores **salary trends in Artificial Intelligence (AI) and Data Science roles**, with a focus on identifying the factors that influence compensation. It was developed as part of an academic project for **University of Milano-Bicocca (UniMiB)** by:
 - [Kevin Garofalo](https://github.com/essskevin)
 - [Vincenzo Siano](https://github.com/Weinsz)
-- [Giulio Lonati (...)](...).
+- [Giulio Lonati](https://github.com/giulio1809).
 
 ---
 
