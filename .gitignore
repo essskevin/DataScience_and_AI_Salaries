@@ -20,10 +20,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Reports
-reports/
-*.pdf
-
 # IDE / editor settings
 .vscode/
 .idea/
